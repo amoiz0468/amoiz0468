@@ -1,168 +1,173 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:0f172a&height=210&section=header&text=Muhammad%20Abdul%20Moiz&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Web%20%7C%20DevOps%20%7C%20AI%20Engineer%20in%20Paris&descAlignY=58&descSize=18" alt="Muhammad Abdul Moiz" />
+<div align="center">
+
+<img src="https://muhammad-abdul-moiz.vercel.app/avatar.png" width="140" alt="Muhammad Abdul Moiz" />
+
+<h1>Muhammad Abdul Moiz</h1>
+
+<p><b>Web, DevOps and AI Engineer</b><br />MSc Information Technology at EPITECH Paris</p>
+
+<p>
+<a href="https://muhammad-abdul-moiz.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/moizghauri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:amoiz0468@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Paris,%20France-374151?style=flat-square" alt="Paris, France" />
 </p>
 
-<p align="center">
-  <a href="https://muhammad-abdul-moiz.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Software+and+Machine+Learning+Engineer;MSc+IT+at+EPITECH+Paris;Building+GenAI+agents+with+LangGraph;Shipping+cloud+native+apps+on+AWS+and+GCP;Automating+CI%2FCD+and+Software+Factories" alt="Intro" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://muhammad-abdul-moiz.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-4f46e5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/moizghauri"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:amoiz0468@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+</div>
 
 <br />
+
+### About
+
+I am a software engineer based in Paris, working at the intersection of backend development, cloud infrastructure and applied AI. I currently work as a Pedagogical Assistant at EPITECH Paris while completing my MSc in Information Technology. Before that, I was an Associate Software Engineer at Brackets Private Limited, where I built GenAI agents, REST APIs and automated cloud pipelines.
+
+I am interested in agentic AI systems, high throughput APIs and DevSecOps practices. Open to full time opportunities in France from September 2027.
+
+<br />
+
+### Tech Stack
 
 <table>
-  <tr>
-    <td width="68%" valign="top">
-
-<h2>About Me</h2>
-
-I am a Software and Machine Learning Engineer based in <b>Paris, France</b>, born and raised in Pakistan. I enjoy building products where clean backend architecture, automated infrastructure and AI meet.
-
-<b>Currently</b><br />
-Pedagogical Assistant at EPITECH Paris, mentoring students in Linux, Docker and backend architecture.
-
-<b>Studying</b><br />
-Master of Science in Information Technology at EPITECH Paris (2025 to 2027).
-
-<b>Previously</b><br />
-Associate Software Engineer at Brackets Private Limited, building GenAI agents, REST APIs and cloud pipelines.
-
-<b>Focus</b><br />
-Agentic AI, high throughput APIs, DevSecOps and cloud infrastructure.
-
-<b>Languages</b><br />
-English (C1), French (B1), Urdu (Native)
-
-    </td>
-    <td width="32%" align="center" valign="top">
-      <br />
-      <img src="https://muhammad-abdul-moiz.vercel.app/avatar.png" width="200" alt="Muhammad Abdul Moiz" />
-      <br /><br />
-      <img src="https://img.shields.io/badge/Paris,%20France-0f172a?style=flat-square" alt="Location" />
-      <br />
-      <img src="https://img.shields.io/badge/Open%20to%20CDI%20%2F%20CDD-16a34a?style=flat-square" alt="Availability" />
-    </td>
-  </tr>
+<tr>
+<td width="200"><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white" alt="Elixir" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white" alt="Phoenix" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</td>
+</tr>
+<tr>
+<td><b>AI and ML</b></td>
+<td>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+</td>
+</tr>
+<tr>
+<td><b>DevOps and Cloud</b></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+</td>
+</tr>
 </table>
 
 <br />
 
-<h2 align="center">Tech Stack</h2>
+### Selected Projects
 
-<h4 align="center">Languages and Frameworks</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,elixir,nodejs,react,vue,nextjs,django,fastapi,tailwind,html,css&perline=13" alt="Languages and frameworks" />
-</p>
-
-<h4 align="center">DevOps, Cloud and Databases</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,gitlab,nginx,linux,bash,postgres,redis,mongodb,git,vercel&perline=13" alt="DevOps and cloud" />
-</p>
-
-<h4 align="center">AI and Machine Learning</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=13" alt="Machine learning" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-0f172a?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-334155?style=for-the-badge" alt="RAG" />
-</p>
-
-<br />
-
-<h2 align="center">Featured Projects</h2>
-
-<table align="center">
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">Description</th>
-    <th align="left">Stack</th>
-  </tr>
-  <tr>
-    <td><b>DoctorIQ</b></td>
-    <td>Medical document extraction platform. OCR and LLM pipelines cut turnaround time by 70%.</td>
-    <td>Django REST, Claude, OpenAI, Celery, AWS</td>
-  </tr>
-  <tr>
-    <td><b>Brackets Genie</b></td>
-    <td>Real time conversational AI with multi step agent orchestration and sub 50ms WebSocket telemetry.</td>
-    <td>FastAPI, React, LangGraph, LangChain</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/amoiz0468/VIF">VIF</a></b></td>
-    <td>Food solidarity platform. Project Lead from specifications to production, with DORA metrics.</td>
-    <td>FastAPI, React Native, PostgreSQL, GitLab CI</td>
-  </tr>
-  <tr>
-    <td><b>Ledgeroo</b></td>
-    <td>Secure FinTech backend with encrypted transactions and Stripe billing.</td>
-    <td>Django, PostgreSQL, Stripe, AWS</td>
-  </tr>
-  <tr>
-    <td><b>Trinity Suite</b></td>
-    <td>Complete Software Factory with 90%+ test coverage and SonarQube quality gates.</td>
-    <td>Django, React 18, React Native, Docker</td>
-  </tr>
-  <tr>
-    <td><b>Time Manager</b></td>
-    <td>High concurrency real time tracking tool with role based access.</td>
-    <td>Elixir (Phoenix), Vue 3, WebSockets</td>
-  </tr>
-  <tr>
-    <td><b>Tamiami Fitness</b></td>
-    <td>NLP and OCR booking agent automating 90% of member bookings.</td>
-    <td>Node.js, Dialogflow, AWS Lambda, DynamoDB</td>
-  </tr>
-  <tr>
-    <td><b>Zoidberg 2.0</b></td>
-    <td>ML benchmarking of 6 models (DenseNet121, CNN, SVM, RF) with ROC AUC and F1 reporting.</td>
-    <td>PyTorch, TensorFlow, scikit-learn</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/amoiz0468/Portfolio">Portfolio</a></b></td>
-    <td>My personal website with a multi provider AI twin chatbot, bilingual UI and full SEO.</td>
-    <td>Next.js, TypeScript, Tailwind, Vercel</td>
-  </tr>
+<table>
+<tr>
+<td width="200"><b>DoctorIQ</b></td>
+<td>Medical document processing platform using OCR and LLM pipelines. Reduced extraction turnaround time by 70%.<br /><sub>Django REST, Claude API, OpenAI, Celery, Redis, AWS</sub></td>
+</tr>
+<tr>
+<td><b>Brackets Genie</b></td>
+<td>Conversational AI platform with multi step agent orchestration and real time WebSocket telemetry under 50ms.<br /><sub>FastAPI, React, TypeScript, LangGraph, LangChain</sub></td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/amoiz0468/VIF">VIF</a></b></td>
+<td>Food solidarity platform for web and mobile. Led the project from functional specifications to production delivery.<br /><sub>FastAPI, React Native, PostgreSQL, Docker, GitLab CI</sub></td>
+</tr>
+<tr>
+<td><b>Trinity Suite</b></td>
+<td>Software Factory pipeline with over 90% test coverage and SonarQube quality gates.<br /><sub>Django, React 18, React Native, Docker Compose, Nginx</sub></td>
+</tr>
+<tr>
+<td><b>Zoidberg 2.0</b></td>
+<td>Machine learning benchmark comparing six models on medical imaging with stratified cross validation.<br /><sub>PyTorch, TensorFlow, scikit-learn, DenseNet121</sub></td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/amoiz0468/Portfolio">Portfolio</a></b></td>
+<td>Personal website with an AI chatbot, bilingual interface and full SEO setup.<br /><sub>Next.js, TypeScript, Tailwind CSS, Vercel</sub></td>
+</tr>
 </table>
 
-<p align="center">
-  <a href="https://muhammad-abdul-moiz.vercel.app/projects"><b>See all projects in detail on my portfolio</b></a>
-</p>
+More projects are available on my <a href="https://muhammad-abdul-moiz.vercel.app/projects">portfolio</a>.
 
 <br />
 
-<h2 align="center">Highlights</h2>
+### Experience
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><h3>20+</h3>Cloud deployments on AWS and GCP</td>
-    <td align="center" width="25%"><h3>10+</h3>AI and ML projects shipped</td>
-    <td align="center" width="25%"><h3>70%</h3>Less manual effort through automation</td>
-    <td align="center" width="25%"><h3>90%</h3>Bookings automated with NLP and OCR</td>
-  </tr>
+<table>
+<tr>
+<td width="200"><b>EPITECH Paris</b><br /><sub>Sept 2026 to Sept 2027</sub></td>
+<td><b>Pedagogical Assistant</b> (alternance)<br />Mentoring engineering students in Linux, Docker, algorithms and backend architecture.</td>
+</tr>
+<tr>
+<td><b>Brackets Private Limited</b><br /><sub>July 2024 to Aug 2025</sub></td>
+<td><b>Associate Software Engineer</b><br />Built REST APIs, CI/CD workflows and GenAI agents on AWS and GCP.</td>
+</tr>
 </table>
 
 <br />
 
-<p align="center">
-  <b>Let's build something together.</b><br />
-  Chat with my AI twin on <a href="https://muhammad-abdul-moiz.vercel.app">my portfolio</a> or reach out on <a href="https://linkedin.com/in/moizghauri">LinkedIn</a>.
-</p>
+### Education
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amoiz0468&color=7c3aed&style=flat-square&label=Profile%20views" alt="Profile views" />
-</p>
+<table>
+<tr>
+<td width="200"><b>EPITECH Paris</b><br /><sub>2025 to 2027</sub></td>
+<td>Master of Science in Information Technology</td>
+</tr>
+<tr>
+<td><b>FAST NUCES</b><br /><sub>2020 to 2024</sub></td>
+<td>Bachelor of Science in Computer Science</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:4f46e5&height=110&section=footer" alt="" />
-</p>
+<br />
+
+### GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=amoiz0468&show_icons=true&hide_border=true&theme=transparent&title_color=4f46e5&icon_color=4f46e5&include_all_commits=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoiz0468&layout=compact&hide_border=true&theme=transparent&title_color=4f46e5" alt="Top languages" />
+</div>
+
+<br />
+
+<div align="center">
+<sub>Reach me at <a href="mailto:amoiz0468@gmail.com">amoiz0468@gmail.com</a> or on <a href="https://linkedin.com/in/moizghauri">LinkedIn</a>.</sub>
+</div>

@@ -58,25 +58,31 @@ MSc in Information Technology · EPITECH Paris
 - Engineered resilient fallback mechanisms across Claude and OpenAI APIs to maintain high parsing accuracy.
 - **Stack:** `Django REST` `Celery` `Redis` `Claude API` `OpenAI` `AWS S3`
 
-#### 2. [Brackets Genie](https://muhammad-abdul-moiz.vercel.app/projects) `Private · Brackets`
+#### 2. [Ledgeroo](https://muhammad-abdul-moiz.vercel.app/projects) `Private · Brackets`
+> **Interactive financial learning platform designed for structured accounting workflows and automated billing.**
+- Built scalable RESTful backend services with asynchronous task handling using Celery and Redis to process transaction events and learner analytics.
+- Integrated end-to-end Stripe payment processing, webhook listeners, and subscription lifecycle management with zero transactional drift.
+- **Stack:** `Django REST` `Python` `Celery` `Redis` `Stripe API` `PostgreSQL` `Docker`
+
+#### 3. [Brackets Genie](https://muhammad-abdul-moiz.vercel.app/projects) `Private · Brackets`
 > **Conversational agentic platform with multi-step reasoning and sub-50ms latency.**
 - Orchestrated stateful multi-agent workflows using LangGraph and FastAPI WebSockets.
 - Implemented real-time telemetry streaming structured tool executions and intermediate reasoning steps to the client.
 - **Stack:** `FastAPI` `LangGraph` `WebSockets` `TypeScript` `React`
 
-#### 3. [VIF (Food Solidarity Platform)](https://github.com/amoiz0468/VIF) `EPITECH`
+#### 4. [VIF (Food Solidarity Platform)](https://github.com/amoiz0468/VIF) `EPITECH`
 > **Cross-platform ecosystem connecting local businesses with students to curb food waste.**
 - Directed end-to-end delivery from functional specifications to containerized staging and production.
 - Built a secure, role-based REST API with automated integration tests in GitLab CI.
 - **Stack:** `FastAPI` `PostgreSQL` `React Native` `Docker` `GitLab CI`
 
-#### 4. [Trinity Suite](https://github.com/amoiz0468/trinity-dev-web) `EPITECH`
+#### 5. [Trinity Suite](https://github.com/amoiz0468/trinity-dev-web) `EPITECH`
 > **Supply chain system engineered with a strict automated Software Factory.**
 - Maintained **>90% test coverage** enforced via SonarQube quality gates and multi-stage container pipelines.
 - Distributed across a responsive dashboard ([Web](https://github.com/amoiz0468/trinity-dev-web)) and mobile driver companion ([Mobile](https://github.com/amoiz0468/trinity-dev-app)).
 - **Stack:** `Django REST` `React 18` `React Native` `Docker Compose` `SonarQube`
 
-#### 5. [Time Manager](https://github.com/amoiz0468/Time-Manager-Backend) `EPITECH`
+#### 6. [Time Manager](https://github.com/amoiz0468/Time-Manager-Backend) `EPITECH`
 > **High-concurrency time tracking & workforce analytics tool.**
 - Implemented real-time activity dashboards using Phoenix WebSockets and granular Role-Based Access Control (RBAC).
 - Decoupled architecture between an [Elixir API](https://github.com/amoiz0468/Time-Manager-Backend) and an optimized [Vue 3 client](https://github.com/amoiz0468/Time-Manager-Frontend).

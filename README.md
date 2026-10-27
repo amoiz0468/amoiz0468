@@ -34,7 +34,7 @@ MSc in Information Technology · EPITECH Paris
 - 💼 **Prior Impact:** At **Brackets**, built an automated OCR/LLM document extraction pipeline that cut turnaround times by **70%**, alongside real-time agent telemetry serving under **50ms**.
 - 🎓 **Education:** Final-year MSc in Information Technology at EPITECH Paris (exp. 2027) · B.S. in Computer Science from FAST-NUCES (2024).
 - 🎯 **Availability:** Open to full-time Software / AI Engineering opportunities in France from **September 2027**.
-- 🌐 **Languages:** English (C1 · Full Professional) · French (B1 · Working Proficiency) · Urdu (Native).
+- 🌐 **Languages:** English (C1 · Full Professional) · French (B1.1 · Working Proficiency) · Urdu (Native).
 
 ---
 

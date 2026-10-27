@@ -7,10 +7,18 @@
 **Backend & AI Systems Engineer**  
 MSc in Information Technology · EPITECH Paris
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-muhammad--abdul--moiz.vercel.app-111827?style=flat-square&logo=vercel&logoColor=white)](https://muhammad-abdul-moiz.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-moizghauri-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/moizghauri)
-[![Email](https://img.shields.io/badge/Email-amoiz0468%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amoiz0468@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Paris%2C%20France-374151?style=flat-square&logo=google-maps&logoColor=white)](#)
+<div align="center">
+  <a href="https://muhammad-abdul-moiz.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/moizghauri" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:amoiz0468@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Paris%2C%20France-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+</div>
 
 <p align="center">
   <i>Building high-throughput backend services, autonomous LLM agents, and cloud-native software factories.</i>
